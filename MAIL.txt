@@ -1,0 +1,36 @@
+Sent: 
+The 13 of August 2025 at 13:37 UTC+1
+
+To: 
+serviceclients@crosscall.com
+support@crosscall.com
+
+Object:
+Mise en demeure de fournir le code source complet du noyau Linux – Crosscall Trekker M1 Core (GPLv2)
+
+Content:
+Bonjour,
+
+Je vous contacte concernant l’appareil Crosscall Trekker M1 Core, équipé d’un noyau Linux modifié distribué par votre société.
+
+Conformément à la licence GNU GPL version 2 et à la section 3 de cette licence, la distribution d’un binaire dérivé du noyau Linux vous impose l’obligation légale de fournir à toute personne qui en fait la demande :
+
+Le code source complet de la version exacte du noyau distribué, incluant tous les correctifs et modifications spécifiques.
+
+Les fichiers de configuration et scripts nécessaires à la recompilation du noyau à l’identique.
+
+Les informations précises permettant d’identifier la version du noyau et du firmware correspondant.
+
+Cette obligation s’applique à la version exacte utilisée dans le Trekker M1 Core, et non à une version générique ou approximative.
+
+Je vous demande de me fournir ces éléments sous un délai raisonnable, soit au maximum 15 jours à compter de la réception de ce message.
+
+En cas de non-réponse ou de réponse incomplète, je me verrai dans l’obligation de saisir les organismes compétents tels que la Free Software Foundation, la Software Freedom Conservancy et, le cas échéant, d’engager les démarches légales prévues pour faire respecter les termes de la GPLv2.
+
+Je vous prie de me transmettre ces sources par lien de téléchargement (HTTP, FTP, Git) ou tout autre moyen électronique approprié.
+
+Veuillez confirmer la réception de cette demande.
+
+Cordialement,
+
+[my name]
