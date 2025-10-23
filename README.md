@@ -16,4 +16,7 @@ i then re left it in my drawer for 3 other years sometimes trying to flash rom f
 # Going bare bones
 We're here, 5 years after the incident, im now 12 and i'm much more skilled in the field of IT, notably by compiling linux for a set top box and getting output over hdmi, hacking a picture frame and even rooting and modifiying the bootloader of a cheap klipad KL638DK tablet.<br>
 While browsing on the net, i stumbled into an info that fired a spark inside me: Crosscall released KERNEL SOURCES for their more modern phones !! I then knew what i had to do: ask crosscall for the kernel source of the trekker m1 core, in theory with a kernel i could make my very own minimalistic android rom.<br><br>
-**ATM, I am waiting for the response to my mail, in which you can find a french copy on the MAIL.txt file. the mail was sent the 13 august of 2025.**
+So i've sent a mail the 13th august of 2025, the copy is in MAIL.txt
+## After 2 months
+**I've finally got the sources of the kernel after 2 long months [here](https://github.com/CrosscallEngineering/TrekkerM1-_kernel_3.10.49) !**
+
